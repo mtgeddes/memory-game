@@ -9,13 +9,13 @@ const Nav = props =>
             <a href="/">Clicky Game</a>
         </li>
         { props.guessMessage === null
-            ? <li> guess a word </li> 
+            ? <li> Click an image to begin! </li> 
             : <li> { props.guessMessage 
                 ? `You guessed corretly!` 
                 : `Sorry, you've already guessed`} 
             </li> 
         }
-        <li>{props.counter} | {props.max}</li>
+        <li>Score: {props.counter} | Top Score: {props.max}</li>
     </ul>
 </nav>
 
