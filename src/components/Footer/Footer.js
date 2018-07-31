@@ -5,7 +5,6 @@ const Footer = props =>
 
 <footer className="footer">
     <div className="bottom"> Clicky Game!
-
     </div>
 </footer>
 
