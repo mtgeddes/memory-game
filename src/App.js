@@ -18,15 +18,14 @@ class App extends Component {
   }
 
   game = x => {
-    
+
     const isIt = this.state.picked
     if (isIt.includes(x)) {
-
+      
       const guessMessage = false
       const counter = 0
       const picked = []
 
-      console.log(guessMessage)
       this.setState({ picked })
       this.setState({ counter })
       this.setState({ guessMessage })
@@ -35,7 +34,7 @@ class App extends Component {
 
     else {
       const guessMessage = true
-      console.log(guessMessage)
+
       this.setState({ guessMessage })
 
       this.functionExample(x)
@@ -92,10 +91,10 @@ class App extends Component {
               key={friend.id}
               name={friend.name}
               image={friend.image}
-              occupation={friend.occupation}
-              location={friend.location}
+              guessMessage={this.state.guessMessage}
             />
           ))}
+          <img src="./assets/images/sky.jpg" alt="background" className="background"/>
         </main>
         <Footer></Footer>
       </div>

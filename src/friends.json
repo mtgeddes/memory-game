@@ -1,86 +1,62 @@
 [
   {
     "id": 1,
-    "name": "SpongeBob",
-    "image": "./assets/images/test.png",
-    "occupation": "Fry Cook",
-    "location": "A Pineapple Under the Sea"
+    "name": "Ship",
+    "image": "./assets/images/ship.jpg"
   },
   {
     "id": 2,
-    "name": "Mr. Krabs",
-    "image": "./assets/images/test.png",
-    "occupation": "Restaurant Owner",
-    "location": "A Giant Anchor"
+    "name": "Jupiter",
+    "image": "./assets/images/jupiter.jpg"
   },
   {
     "id": 3,
-    "name": "Squidward",
-    "image": "./assets/images/test.png",
-    "occupation": "Cashier",
-    "location": "An Easter Island Head"
+    "name": "Mars",
+    "image": "./assets/images/mars.jpg"
   },
   {
     "id": 4,
-    "name": "Dexter",
-    "image": "./assets/images/test.png",
-    "occupation": "Boy Genius",
-    "location": "A Secret Laboratory"
+    "name": "Mercury",
+    "image": "./assets/images/mercury.jpg"
   },
   {
     "id": 5,
-    "name": "Courage",
-    "image": "./assets/images/test.png",
-    "occupation": "A Cowardly Dog",
-    "location": "Nowhere, Kansas"
+    "name": "Moon",
+    "image": "./assets/images/moon.jpg"
   },
   {
     "id": 6,
-    "name": "Doug Funnie",
-    "image": "./assets/images/test.png",
-    "occupation": "Student",
-    "location": "Bluffington"
+    "name": "Neptune",
+    "image": "./assets/images/neptune.jpg"
   },
   {
     "id": 7,
-    "name": "Bugs Bunny",
-    "image": "./assets/images/test.png",
-    "occupation": "Looney Toon",
-    "location": "A Rabbit Burrow"
+    "name": "Saturn",
+    "image": "./assets/images/saturn.jpg"
   },
   {
     "id": 8,
-    "name": "Johnny Bravo",
-    "image": "./assets/images/test.png",
-    "occupation": "Ladies Man",
-    "location": "Aron City"
+    "name": "Sun",
+    "image": "./assets/images/sun.jpg"
   },
   {
     "id": 9,
-    "name": "Tommy Pickles",
-    "image": "./assets/images/test.png",
-    "occupation": "Adventurer",
-    "location": "California"
+    "name": "Earth",
+    "image": "./assets/images/earth.jpg"
   },
   {
     "id": 10,
-    "name": "Rocko",
-    "image": "/assets/images/test.png",
-    "occupation": "Cashier",
-    "location": "O-Town, California"
+    "name": "Venus",
+    "image": "/assets/images/venus.jpg"
   },
   {
     "id": 11,
-    "name": "Captain Planet",
-    "image": "./assets/images/test.png",
-    "occupation": "Superhero",
-    "location": "Earth"
+    "name": "Uranus",
+    "image": "./assets/images/uranus.jpg"
   },
   {
     "id": 12,
-    "name": "Ickis",
-    "image": "./assets/images/test.png",
-    "occupation": "Ahhhh! A Real Monster!",
-    "location": "Under a City Dump"
+    "name": "Rocks",
+    "image": "./assets/images/rocks.jpg"
   }
 ]
