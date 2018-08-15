@@ -47,7 +47,7 @@
   {
     "id": 10,
     "name": "Venus",
-    "image": "/assets/images/venus.jpg"
+    "image": "./assets/images/venus.jpg"
   },
   {
     "id": 11,

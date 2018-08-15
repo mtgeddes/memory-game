@@ -1,7 +1,7 @@
 .footer {
     background: #6956af;
     height: 100px;
-    position: relative;
+
     bottom: 0;
     left: 0;
     right: 0;
@@ -14,7 +14,7 @@
 }
 
 .footer>.bottom {
-    position: absolute;
+
     bottom: 0;
     left: 0;
     right: 0;
@@ -28,7 +28,7 @@
     overflow: auto;
     height: 37px;
 }
-
+/* 
 .footer>.bottom>img {
     width: 20px;
     position: relative;
@@ -38,4 +38,4 @@
 
 img {
     border-style: none;
-}
+} */

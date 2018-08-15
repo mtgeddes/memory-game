@@ -3,7 +3,7 @@
 .container {
   display: -ms-flexbox;
   display: flex;
-  min-height: 80%;
+  min-height: 70vh;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
   -ms-flex-pack: center;
