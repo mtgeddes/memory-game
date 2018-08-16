@@ -9,4 +9,4 @@ A memory game where you try to keep track of the cards you've already clicked bu
 
 
 ## <a name="live"></a>Link to live
-[MySQL](https://mtgeddes.github.io/memory-game/)
+[Live Demo of Memory Game](https://mtgeddes.github.io/memory-game/)
